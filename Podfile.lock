@@ -1,0 +1,53 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Kingfisher (5.15.8):
+    - Kingfisher/Core (= 5.15.8)
+  - Kingfisher/Core (5.15.8)
+  - Localize-Swift (3.2.0):
+    - Localize-Swift/LocalizeSwiftCore (= 3.2.0)
+    - Localize-Swift/UIKit (= 3.2.0)
+  - Localize-Swift/LocalizeSwiftCore (3.2.0)
+  - Localize-Swift/UIKit (3.2.0):
+    - Localize-Swift/LocalizeSwiftCore
+  - QuickLayout (3.0.0)
+  - Realm (10.6.0):
+    - Realm/Headers (= 10.6.0)
+  - Realm/Headers (10.6.0)
+  - RealmSwift (10.6.0):
+    - Realm (= 10.6.0)
+  - SwiftEntryKit (1.2.6):
+    - QuickLayout (= 3.0.0)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.2)
+  - Kingfisher
+  - Localize-Swift (~> 3.2)
+  - RealmSwift
+  - SwiftEntryKit
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - Localize-Swift
+    - QuickLayout
+    - Realm
+    - RealmSwift
+    - SwiftEntryKit
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Kingfisher: a3c03d702433fa6cfedabb2bddbe076fb8f2e902
+  Localize-Swift: 6f4475136bdb0d7b2882ea3d4ea919d70142b232
+  QuickLayout: 07b45a72b10083fee3f095990cfed1c1e7b27f0a
+  Realm: 1ef421d4581513400ad4f8bd39c8157f3266c62e
+  RealmSwift: f80216fb8334b01ccf526e4f2dd5ff0da61863a2
+  SwiftEntryKit: 96a2fa90b2631bbbfac50d18449e9ca3d0635f13
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: 97c0d327145e40280c650b31b64eee1e6009139e
+
+COCOAPODS: 1.10.0

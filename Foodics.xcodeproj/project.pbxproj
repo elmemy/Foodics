@@ -27,8 +27,8 @@
 		AD3DDD8525E1464D0045198F /* CategoryCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3DDD8425E1464D0045198F /* CategoryCell.swift */; };
 		AD3DDD9325E173CD0045198F /* CategoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3DDD9225E173CC0045198F /* CategoryViewController.swift */; };
 		AD3DDD9625E176800045198F /* SplachRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3DDD9525E176800045198F /* SplachRouter.swift */; };
-		AD3DDDEC25E1AD630045198F /* ProductViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3DDDEB25E1AD630045198F /* ProductViewController.swift */; };
 		AD3DDDF125E1ADAB0045198F /* ProductModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3DDDF025E1ADAB0045198F /* ProductModel.swift */; };
+		ADB9FA8C25E3DB1E001C2D38 /* ProductViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB9FA8B25E3DB1E001C2D38 /* ProductViewController.swift */; };
 		ADD7DE3425E2414500F07F43 /* ProductCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD7DE3325E2414500F07F43 /* ProductCollectionViewCell.swift */; };
 		ADD7DE3725E245BB00F07F43 /* HomeRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD7DE3625E245BB00F07F43 /* HomeRouter.swift */; };
 		ADD7DE7025E2645D00F07F43 /* CustomUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD7DE6F25E2645D00F07F43 /* CustomUI.swift */; };
@@ -60,8 +60,8 @@
 		AD3DDD8425E1464D0045198F /* CategoryCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryCell.swift; sourceTree = "<group>"; };
 		AD3DDD9225E173CC0045198F /* CategoryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryViewController.swift; sourceTree = "<group>"; };
 		AD3DDD9525E176800045198F /* SplachRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplachRouter.swift; sourceTree = "<group>"; };
-		AD3DDDEB25E1AD630045198F /* ProductViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ProductViewController.swift; path = ../../../../../../../Documents/ProductViewController.swift; sourceTree = "<group>"; };
 		AD3DDDF025E1ADAB0045198F /* ProductModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductModel.swift; sourceTree = "<group>"; };
+		ADB9FA8B25E3DB1E001C2D38 /* ProductViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProductViewController.swift; sourceTree = "<group>"; };
 		ADD7DE3325E2414500F07F43 /* ProductCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductCollectionViewCell.swift; sourceTree = "<group>"; };
 		ADD7DE3625E245BB00F07F43 /* HomeRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeRouter.swift; sourceTree = "<group>"; };
 		ADD7DE6F25E2645D00F07F43 /* CustomUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomUI.swift; sourceTree = "<group>"; };
@@ -319,7 +319,7 @@
 		AD3DDDEA25E1AD340045198F /* Controller */ = {
 			isa = PBXGroup;
 			children = (
-				AD3DDDEB25E1AD630045198F /* ProductViewController.swift */,
+				ADB9FA8B25E3DB1E001C2D38 /* ProductViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -480,9 +480,9 @@
 				AD3DDD4E25E133B40045198F /* CategoryModel.swift in Sources */,
 				AD3DDD2825E1311C0045198F /* Color.swift in Sources */,
 				AD3DDD4725E133220045198F /* ActivityIndicatory.swift in Sources */,
-				AD3DDDEC25E1AD630045198F /* ProductViewController.swift in Sources */,
 				AD3DDCF425E12D500045198F /* SceneDelegate.swift in Sources */,
 				AD3DDD5325E1347B0045198F /* LanchScreenViewController.swift in Sources */,
+				ADB9FA8C25E3DB1E001C2D38 /* ProductViewController.swift in Sources */,
 				AD3DDD8525E1464D0045198F /* CategoryCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
